@@ -1,0 +1,1 @@
+Desenvolver o modelo LSTM - Modelo baseado em memória de curto prazo
